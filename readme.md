@@ -1,6 +1,9 @@
 # Git Basics February 24, 2020 Safari Live/Daniel Chen
 
+<<<<<<< HEAD
 ** Local
+=======
+>>>>>>> b64d6f73e8e2a88b37f6b4e30db2470cb6e34a2b
 
 - `init`: make current folder a git directory
 - `status`: see the git status of the current directory
@@ -18,4 +21,5 @@
 - `pull`: get code from remote (= fetch + merge)
 - 
  
+## A change from git
 
