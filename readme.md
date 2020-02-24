@@ -8,9 +8,6 @@
 - `index/staging area`: an intermediate area to collect materials to be committed, prior to committing
 - `diff`: look at differences between 2 commit states, staging state by using --stage, or specific files, but adding filename as arg
 - `log`: get list of all commits with messages
-
-jfklda;
-
-jfkld;a
-jfkld;a
+- `checkout`: changes which commit HEAD points to
+- 
 
