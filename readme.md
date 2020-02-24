@@ -6,3 +6,6 @@
 - `commit`: commit the files from staging area
 - `git commit -m <MESSAGE>`: add MESSAGE describing the commit (?? the purpose, etc)
 - `index/staging area`: an intermediate area to collect materials to be committed, prior to committing
+- `diff`: look at differences between 2 commit states
+- 
+
