@@ -9,3 +9,8 @@
 - `diff`: look at differences between 2 commit states, staging state by using --stage, or specific files, but adding filename as arg
 - `log`: get list of all commits with messages
 
+jfklda;
+
+jfkld;a
+jfkld;a
+
