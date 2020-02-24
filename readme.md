@@ -8,6 +8,9 @@
 - `index/staging area`: an intermediate area to collect materials to be committed, prior to committing
 - `diff`: look at differences between 2 commit states, staging state by using --stage, or specific files, but adding filename as arg
 - `log`: get list of all commits with messages
-- `checkout`: changes which commit HEAD points to
+- `checkout`: changes what HEAD points to (i.e. which commit)
+- `push`: send code to remote
+- `pull`: get code from remote (= fetch + merge)
 - 
+ 
 
