@@ -1,9 +1,8 @@
 # Git Basics February 24, 2020 Safari Live/Daniel Chen
 
-** Local
+## Local
 =======
-
-
+- `config`: make and view various configuration settings
 - `init`: make current folder a git directory
 - `status`: see the git status of the current directory
 - `add`: put files into the staging area
@@ -16,9 +15,7 @@
 
 ## Remotes
 
+- `remote` - anywhere that you didnt `init` or `clone`
 - `push`: send code to remote
 - `pull`: get code from remote (= fetch + merge)
-- 
- 
-## A change from git
- - there's an error its not working
+
