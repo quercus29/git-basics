@@ -19,5 +19,7 @@
 	- `remote add origin <url>`: adds the url as a remote named origin
 	- `remote -v`: shows remote
 - `push`: send code to remote
+	- `push origin master`
 - `pull`: get code from remote (= fetch + merge)
+	- `pull origin master`
 
