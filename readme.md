@@ -1,4 +1,4 @@
-# Git Basics February 24, 2020 Safari Live/Daniel Chen
+# Git Basics February 24, 2020 Safari Live (Instr: Daniel Chen)
 
 ## Local
 =======
